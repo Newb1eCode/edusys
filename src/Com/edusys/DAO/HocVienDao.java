@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author VuMinhHa
+ * @author hoangancut
  */
 public class HocVienDao {
     public void insert(HocVien model) {
