@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author VuMinhHa
+ * @author thanhancut
  */
 public class ChuyenDeDAO {
     public void insert(ChuyenDe model) {
